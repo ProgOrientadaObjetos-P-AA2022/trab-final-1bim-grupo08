@@ -5,10 +5,15 @@
  */
 package paquete06;
 
+import paquete02.Propietario;
+import paquete03.Barrio;
+import paquete04.Ciudad;
+import paquete05.Constructora;
+
 /**
  *
  * @author reroes
  */
 public class Casa {
-    
-}
+
+   }
