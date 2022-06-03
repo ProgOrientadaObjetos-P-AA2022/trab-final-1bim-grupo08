@@ -11,7 +11,7 @@ import java.util.Formatter;
  * @author gilbertsolanosotomayor
  */
 public class ControladorDepartamento {
-      private String nombreArchivo;
+ private String nombreArchivo;
     private Departamento dataFinal;
     private Formatter salidaArchivo;
     
@@ -39,4 +39,5 @@ public class ControladorDepartamento {
             System.exit(1);
         }
     }
+
 }
