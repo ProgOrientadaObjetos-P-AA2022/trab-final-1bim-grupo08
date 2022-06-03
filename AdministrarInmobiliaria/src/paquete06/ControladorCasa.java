@@ -11,7 +11,12 @@ import java.util.Formatter;
  * @author gilbertsolanosotomayor
  */
 public class ControladorCasa {
+<<<<<<< HEAD
       private String nombreArchivo;
+=======
+   
+     private String nombreArchivo;
+>>>>>>> refs/remotes/origin/main
     private Casa dataFinal;
     private Formatter salidaArchivo;
     

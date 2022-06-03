@@ -25,6 +25,18 @@ public class Casa implements Serializable{
     private int numeroCuartos;
     private Constructora cons;
 
+<<<<<<< HEAD
+=======
+    private Propietario prop;
+    private double precioMetroCuadrado;
+    private double metrosCuadrados;
+    private double costoFinal;
+    private Barrio ba;
+    private Ciudad ci;
+    private int numeroCuartos;
+    private Constructora cons;
+
+>>>>>>> refs/remotes/origin/main
     public Casa() {
 
     }
